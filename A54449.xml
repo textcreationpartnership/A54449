@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vision of John Perrot wherein is contained the future state of Europe, &amp;c., particularly the empire of Greece, France, Germany, Spain, and England : as it was shewed him in the Island of Jamaica, a little before this death, and sent by him to a friend in London for a warning to his native country : published at the request of some of his friends / by a lover of Sions seed.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54449</idno>
+            <idno type="STC">Wing P1637</idno>
+            <idno type="STC">ESTC R2949</idno>
+            <idno type="EEBO-CITATION">13178196</idno>
+            <idno type="OCLC">ocm 13178196</idno>
+            <idno type="VID">98356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 433:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vision of John Perrot wherein is contained the future state of Europe, &amp;c., particularly the empire of Greece, France, Germany, Spain, and England : as it was shewed him in the Island of Jamaica, a little before this death, and sent by him to a friend in London for a warning to his native country : published at the request of some of his friends / by a lover of Sions seed.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98356:1" rendition="simple:additions"/>
+            <p>THE VISION OF John Perrot, Wherein is Contained The Future State of <hi>EUROPE,</hi> &amp;c.</p>
+            <p>Particularly The Empire of <hi>Greece, France, Germany, Spain,</hi> and <hi>England:</hi> As it was Shewed him in the Iſland of <hi>Jamaica,</hi> a little before his Death, and Sent by him to a Friend in <hi>London,</hi> for a <hi>Warning</hi> to his Native Country.</p>
+            <p>Publiſhed at the Requeſt of ſome of his Friends, By a Lover of <hi>Sions Seed.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ACT. 3.17.</hi>
+               </bibl> And it ſhall come to paſs in the Laſt Days, ſaith God, I will pour out my Spirit upon all Fleſh, and your Sons and your Daughters ſhall Propheſie, the Young men ſhall ſee Viſions.</q>
+            <p>
+               <hi>London,</hi> Printed in the Year M.DC.LXXXII.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:98356:2"/>
+            <head>In Memoriam <hi>Johannis Perotti.</hi>
+            </head>
+            <l>SWeet was thy Voice, and Raviſhing thy Strain,</l>
+            <l>Thy Silver Trumpet Sounded not in Vain:</l>
+            <l>In Vain did <hi>Sions</hi> Enemies, we ſee,</l>
+            <l>Labour, by Cruelties, to Conquer Thee:</l>
+            <l>Patience and Holy Zeal did Overcome</l>
+            <l>The Cruelties of <hi>Antichriſtian-Rome:</hi>
+            </l>
+            <l>Thy Sufferings there for Truth, what Tongue can tell?</l>
+            <l>The Zeal God gave thee, few do parallel.</l>
+            <l>In <hi>Shilohs</hi> Holy Ink thy Learned Pen</l>
+            <l>Was dipt, which Raviſhed the Sons of Men:</l>
+            <l>Where thy Fair Fabrick's Fall'n, if ere I come,</l>
+            <l>I'll drop ſome Tears upon thy Honoured <hi>Tomb:</hi>
+            </l>
+            <l>Thou Heaven-Born Seed, Blest let thy Memory be,</l>
+            <l>The Love of Men and Angels Honour Thee.</l>
+            <closer>
+               <date>
+                  <hi>The</hi> 27th. <hi>of the</hi> 8th. <hi>Month, 1676.</hi>
+               </date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98356:2"/>
+            <head>THE VISION OF John Perrot, Wherein is contained the Future State of <hi>E<g ref="char:V">Ʋ</g>ROPE, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>OE! Woe! unto the <hi>Sanstuary</hi> of the Lord, for it is <hi>Polluted!</hi> Woe to the <hi>Mountain</hi> of the Lord for it is at <hi>Eaſe!</hi> The <hi>Habitation</hi> where the God of <hi>Jacob</hi> ſhould <hi>Dwell,</hi> is become the <hi>Habitation</hi> of <hi>Devils.</hi> The <hi>Day</hi> is coming that it ſhall be <hi>Plowed</hi> like a <hi>Field:</hi> And the <hi>Fami<g ref="char:EOLhyphen"/>lies</hi> of the <hi>Mountain</hi> ſhall <hi>Worſhip apart,</hi> yea, every one <hi>apart,</hi> and their <hi>Wives apart.</hi> Be<g ref="char:EOLhyphen"/>hold a <hi>Deſolation</hi> is coming from the <hi>Four Winds,</hi> which ſhall <hi>Scatter</hi> the <hi>Inhabitants</hi> of the <hi>Mountain,</hi> becauſe they <hi>Truſted</hi> in <hi>Themſelves,</hi> and <hi>Not</hi> in the <hi>Lord.</hi> They thought that their <hi>Mountain</hi> ſhould be their <hi>Safety</hi> in the <hi>Day</hi> of <hi>Trouble:</hi> But, <hi>Lying Vanities</hi> ſhall not <hi>Deliver</hi> in that <hi>Day,</hi> neither ſhall <hi>taking</hi> the <hi>LORDS Name in Vain</hi> be a <hi>Refuge;</hi> For they have gone <hi>aſtray</hi> from the <hi>Ways</hi> of the <hi>Lord,</hi> every one <hi>walkes</hi> in, and <hi>Loves</hi> his <hi>own Way,</hi> and is <hi>gone a Whoring</hi> after other <hi>Gods.</hi> Their <hi>Covetouſ<g ref="char:EOLhyphen"/>neſs</hi>
+               <pb n="2" facs="tcp:98356:3"/>
+is their <hi>Delight,</hi> they <hi>walk</hi> not in the <hi>Truth,</hi> neither do they <hi>Love</hi> it, but <hi>Diceit is their Covering all the Day long:</hi> They <hi>Profeſs,</hi> and <hi>draw near</hi> [to] <hi>the Holy One in words, but their Hearts are far from Him.</hi> They walk <hi>Craftily</hi> with their <hi>Neighbour,</hi> and deal <hi>Deceitfully</hi> with their <hi>Friend,</hi> and make the <hi>Profeſſion</hi> of the <hi>Lords Holineſs</hi> their <hi>Covering;</hi> They fill their <hi>Mouthes</hi> with <hi>vain Words,</hi> and <hi>Codemn</hi> the <hi>Things</hi> which they <hi>Do,</hi> and yet <hi>Hate</hi> him which <hi>Reproves</hi> in the <hi>Gate.</hi> Shall not the <hi>Lord Viſit</hi> for theſe <hi>Things?</hi> Shall not the <hi>Holy One</hi> take <hi>Vengeance ſuddainly?</hi> For the <hi>Pride</hi> of their <hi>Hearts,</hi> their fooliſh <hi>Imaginations,</hi> and their <hi>Spiritual Idolatry</hi> in <hi>High Places,</hi> which would <hi>constrain</hi> the <hi>Lord</hi> to their <hi>Mountain,</hi> and the <hi>Holy One</hi> to their <hi>Habitations.</hi> Is <hi>He</hi> not the <hi>God</hi> of the <hi>whole Earth?</hi> Shall <hi>Man Limit</hi> his <hi>Spirit?</hi> Or <hi>teach him</hi> to underſtand who is the <hi>Fountain</hi> of <hi>Wiſdom?</hi> Surely No. The time was when thou waſt a <hi>Small People,</hi> and <hi>Little</hi> in thine <hi>own Eyes,</hi> thou didſt <hi>Walk</hi> in <hi>Simplicity, Innocency</hi> was thy <hi>Covering,</hi> and <hi>Lowlineſs</hi> of <hi>Mind</hi> became thy <hi>Habitation: Truth</hi> in the <hi>Inward Parts</hi> was thy <hi>De<g ref="char:EOLhyphen"/>light,</hi> and the <hi>Lord</hi> rejoyced to do his <hi>Plant good,</hi> and to <hi>bleſs it,</hi> and <hi>increaſe it,</hi> that it might <hi>flouriſh</hi> and bring forth <hi>good Fruit;</hi> but when the time came that he expected <hi>Fruit,</hi> behold nothing but <hi>Barrenneſs</hi> and <hi>Deadneſs,</hi> and <hi>wild Grapes.</hi> What ſhall the <hi>Lord</hi> do to this <hi>Plant?</hi> He will <hi>Prune it,</hi> and <hi>Dreſs it,</hi> and <hi>Cut off</hi> all the <hi>dead</hi> and <hi>barren Bran<g ref="char:EOLhyphen"/>ches,</hi> and thoſe that bring forth <hi>wild Grapes,</hi> and <hi>Graft</hi> other <hi>Branches</hi> in. A <hi>Day</hi> of <hi>Vengeance</hi> from the <hi>Lord</hi> is <hi>coming,</hi> which ſhall try all <hi>Fleſh,</hi> and it ſhall begin at the <hi>Lords Sanctuary</hi> firſt. <hi>Woe! woe!</hi> unto thoſe have <hi>known</hi> the <hi>Way</hi> of <hi>Truth,</hi> and have not <hi>Walked anſwerable</hi> to it, but have made <hi>Deceit</hi> their <hi>Covering,</hi> and have <hi>walked</hi> like <hi>careleſs Daughters,</hi> at <hi>eaſe</hi> in the <hi>Fleſh.</hi> The <hi>Lord</hi> will <hi>Viſit</hi> with <hi>Wrath: He</hi> will <hi>Overturn, Overturn</hi> the <hi>deceitful Mourners</hi> of the <hi>Sanctuary;</hi> the <hi>weeping</hi> and <hi>ſighing Women</hi> ſhall not <hi>prevail</hi> in that day, which make a <hi>noiſe</hi> for <hi>vanity</hi> and hang down their <hi>Heads</hi> for an hour like a <hi>Bulruſh</hi> in <hi>Deceit.</hi> Theſe things are an <hi>Abomination</hi> to the <hi>Lord,</hi> his Soul hates them, He will ſurely be <hi>Avenged</hi> on ſuch a <hi>People</hi> as this, the <hi>Prophaners</hi> of his <hi>Holy Name.</hi>
+            </p>
+            <p>And behold the Man that talked with me (who told me of the things that are to come) had a <hi>Sword drawn,</hi> and he anſwered and ſaid, This is the <hi>Sword</hi> of the <hi>Lord,</hi> and it is <hi>drawn</hi> to make a <hi>ſepara<g ref="char:EOLhyphen"/>tion</hi> between the <hi>Righteous</hi> and the <hi>Wicked,</hi> and to make a <hi>Deſolation</hi> amongſt the <hi>Kingdoms</hi> of the <hi>Earth:</hi> For a <hi>Deſtruction</hi> is determined, and it ſhall come to paſs and none ſhall let it. Nevertheleſs, before theſe things be fulfilled, the <hi>Holy Seed</hi> muſt paſs through a <hi>fiery Tryal,</hi> and the <hi>Children</hi> of thy <hi>Father</hi> ſhall endure manifold <hi>Afflictions,</hi> ſuch as when they are told, ſhall make a Mans <hi>Ears</hi> to <hi>tingle.</hi> Theſe things
+<pb n="3" facs="tcp:98356:3"/>
+will be permitted for a Time, for a <hi>Tryal</hi> of thoſe that are <hi>His;</hi> that there may be a <hi>Separation</hi> between Thoſe that are <hi>Talkers</hi> of the <hi>Name</hi> of the <hi>Lord,</hi> and Them which are truly <hi>Purified</hi> with <hi>Blood.</hi> When theſe have filled up their <hi>Meaſures,</hi> not long after, the <hi>Blackneſs of Darkneſs</hi> ſhall cover the <hi>Face</hi> of the <hi>Earth, Paleneſs</hi> ſhall be upon eve<g ref="char:EOLhyphen"/>ry <hi>Countenance, Feebleneſs</hi> ſhall take hold of all <hi>Loyns,</hi> and a Horrible <hi>Fear</hi> ſhall ſurprize every <hi>Soul.</hi> The <hi>Hypocrite</hi> ſhall <hi>Tremble;</hi> the <hi>Lofty</hi> ſhall be <hi>Abaſed:</hi> for the <hi>Lord</hi> ſhall then begin to <hi>Reign:</hi> Then ſhall the <hi>Seed</hi> of the <hi>Covenant Spring Freſh,</hi> and <hi>Flouriſh;</hi> and the <hi>Everlast<g ref="char:EOLhyphen"/>ing Generation</hi> ſhall begin to be <hi>made Manifeſt,</hi> even in the <hi>Sight</hi> of all <hi>Nations.</hi> This is the <hi>Work</hi> which is to be Done; and it ſhall Surely <hi>Come</hi> to <hi>Paſs.</hi> The <hi>Things</hi> which I tell thee, <hi>Write</hi> in a <hi>Book.</hi>
+            </p>
+            <p>And as He talked with me, He Shewed me Several Things concern<g ref="char:EOLhyphen"/>ing the <hi>Kingdoms</hi> of the <hi>Nations:</hi> and he Pointed out One <hi>Kingdom</hi> to a <hi>Certain Deſtruction.</hi>
+            </p>
+            <p>And He ſaid unto me, <hi>Son</hi> of <hi>Man,</hi> turn thee, and look into the <hi>South:</hi> And I turned, and behold I ſaw a <hi>Leopard,</hi> and towards the <hi>North</hi> of Him, a <hi>Terrible Monstrous Beast</hi> with <hi>Three Heads,</hi> having Many <hi>Horns:</hi> And I looked till I Saw the <hi>Leopard</hi> make War with the <hi>Beast</hi> with <hi>Three Heads,</hi> until the <hi>Leopard</hi> had Deſtroyed Him, and cut off all his <hi>Heads.</hi> I asked the Man that Talked with me, ſay<g ref="char:EOLhyphen"/>ing, <hi>What meaneth this?</hi> And He ſaid, <hi>Wait and See.</hi> And I waited till I Saw an <hi>Eagle</hi> ariſe: And She alſo made War with the <hi>Leopard,</hi> and She had, for a Seaſon, the better of the <hi>Leopard;</hi> for when She was at any time in <hi>Danger,</hi> Her <hi>Wings</hi> helped Her, and She Lifted Her Self from the <hi>Earth;</hi> ſo as the <hi>Leopard</hi> could not <hi>Touch</hi> Her: The <hi>Contest</hi> began to be very Great. And I Looked, and behold I Saw a <hi>Lyon</hi> Riſe out of the <hi>Earth,</hi> and Terrible to look to; and He helped the <hi>Eagle</hi> againſt the <hi>Leopard;</hi> but yet was not able to <hi>Over<g ref="char:EOLhyphen"/>come</hi> Him: The <hi>Leopard</hi> waxed Greater and Greater, and begun to have Many <hi>Heads,</hi> and every <hi>Head</hi> had Several <hi>Horns,</hi> with which He <hi>Puſhed,</hi> inſomuch that He made the <hi>Nations</hi> of the <hi>Earth Afraid.</hi> Thus he walked in <hi>Great Majeſty,</hi> Deſtroying many <hi>Kingdoms,</hi> and <hi>Waſting</hi> much <hi>People:</hi> Now when the <hi>Lyon</hi> which Helped the <hi>Eagle,</hi> was in Danger, She bore the <hi>Lyon</hi> upon her <hi>Wings.</hi> I Looked till I Saw the <hi>Eagle</hi> Wounded, and one of Her <hi>Wings</hi> Hurt, ſo as She could not Fly, and She cryed out for <hi>Help,</hi> and Lo many <hi>Young Eagles</hi> came to Reſcue Her, and Save Her till Her <hi>Wound</hi> was Healed, and till Her <hi>Wing</hi> was Grown again: Then the <hi>Leopard</hi> with many <hi>Heads</hi> withdrew: And the <hi>Heads</hi> made War one againſt another, and Deſtroyed one another: and in a little Time after, the <hi>Leopard</hi> was no more ſeen, but Sunk into the <hi>Earth.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:98356:4"/>After all theſe Things, the <hi>Man</hi> that Talked with me, Said, <hi>Seeſt thou all theſe Things?</hi> And I ſaid, <hi>Yea.</hi> Then He ſaid, <hi>All theſe Things after many Days, ſhall Come to Paſs.</hi> And the <hi>Sword</hi> which he had in His Hand, He put into the <hi>Sheath.</hi>
+            </p>
+            <p>And he took from his Side a <hi>Vial,</hi> and it was Full, and he <hi>Poured</hi> it upon the <hi>Waters;</hi> and on the Side of the <hi>Vial</hi> was written, <hi>Death, Death:</hi> And after He had <hi>Poured</hi> the <hi>Vial</hi> upon the <hi>Waters,</hi> the <hi>Wa<g ref="char:EOLhyphen"/>ters</hi> became <hi>Dead,</hi> and <hi>Stinking,</hi> and very <hi>Noyſome.</hi>
+            </p>
+            <p>And He <hi>Poured</hi> forth another <hi>Vial</hi> upon the <hi>Earth:</hi> and upon it was written, <hi>Wo! Wo! Sorrows, Miſery, Anguiſh,</hi> and <hi>Tribulation.</hi> Which when I ſaw, my <hi>Heart</hi> began to <hi>Faint:</hi> and he ſaid to me, <hi>Fear not,</hi> for I will ſtand by thee in the midſt of all <hi>Troubles:</hi> Never<g ref="char:EOLhyphen"/>theleſs, theſe Things ſhall not be in thy <hi>Days.</hi>
+            </p>
+            <p>And I asked the <hi>Man</hi> the <hi>Meaning</hi> of all theſe Things: and what ſhould <hi>Come</hi> to <hi>Paſs</hi> hereafter: and the Time when every Thing ſhould be <hi>Fulfilled.</hi> Now the <hi>Man</hi> had a <hi>Writers Inkhorn</hi> by his Side, and a <hi>Rowl</hi> of <hi>Paper</hi> in his Hand: and he wrote the Signification of eve<g ref="char:EOLhyphen"/>ry Thing expreſly, when all Things ſhould <hi>Come</hi> to <hi>Paſs.</hi> And I deſi<g ref="char:EOLhyphen"/>red to Read it: But He told me it was <hi>Sealed</hi> for a <hi>Little Seaſon.</hi> Ne<g ref="char:EOLhyphen"/>vertheleſs He gave me the <hi>Rowl</hi> into my Hand, and bad me <hi>Propheſie;</hi> for theſe Things were Certain and True. And He bid me Eat the <hi>Rowl:</hi> and I went to Eat it, but it was in my Mouth <hi>Bitter as Gall:</hi> ſo I could not Eat it. And He took the <hi>Rowl,</hi> and cut it into many Pieces, and ground it to Powder, and Spread it upon the Face of the Whole <hi>Earth,</hi> that every <hi>Nation</hi> might partake of it. As for me, I had Taſted of it, and it was very <hi>Bitter:</hi> and He told me, <hi>Its Bitter<g ref="char:EOLhyphen"/>neſs</hi> ſhould <hi>Afflict</hi> all <hi>Kingdoms.</hi>
+            </p>
+            <p>And He ſaid unto me, <hi>Son of Man, Propheſie.</hi> And I asked him, <hi>What?</hi> And He anſwered me, and ſaid: <hi>Speak</hi> and <hi>Pronounce Deſtructi<g ref="char:EOLhyphen"/>on</hi> to that <hi>Kingdom,</hi> and <hi>Nation</hi> and <hi>People,</hi> which <hi>Choaks</hi> the <hi>Lillies,</hi> and <hi>Afflicts</hi> an <hi>
+                  <g ref="char:V">Ʋ</g>pright Family.</hi> Say unto Him, I will <hi>Pluck</hi> up thy <hi>Lil<g ref="char:EOLhyphen"/>lies:</hi> I will Tranſplant Them: Thou who Buildeſt thy <hi>Neſt</hi> up to <hi>Heaven,</hi> and makeſt thy <hi>Throne</hi> with the Higheſt: That ſayeſt, <hi>I have Enough, I need no more;</hi> I will Exalt my <hi>Majeſty</hi> to the <hi>Clouds,</hi> and my <hi>Horn</hi> to the <hi>Firmament</hi> it Self. I will <hi>Bow</hi> the <hi>People</hi> under me, and <hi>Break</hi> the <hi>Inhabitants</hi> by my <hi>Power:</hi> I will <hi>Build</hi> me <hi>Ships;</hi> I will <hi>Ride</hi> upon the <hi>Seas</hi> as a <hi>Mighty Man of War,</hi> and who is the <hi>Lord,</hi> that he ſhould <hi>Reſiſt</hi> me? Behold an <hi>Arm</hi> is Formed againſt thee, which ſhall <hi>Bruiſe</hi> thee, and a <hi>Power</hi> is Ariſing which ſhall <hi>Daſh</hi> thee to Pieces, O thou <hi>Proud Fleſh!</hi> What art thou <hi>Better</hi> than thy <hi>Fellows,</hi> that thou thus <hi>Kickeſt?</hi> That thou <hi>Baniſheſt</hi> the <hi>Poor</hi> in <hi>Exile?</hi> And <hi>Afflictest</hi> the <hi>Lords Anointed?</hi> Prepare thee for the <hi>Evil Day;</hi> Secure thy <hi>Strong
+<pb n="5" facs="tcp:98356:4"/>
+Places;</hi> Fortify thy <hi>Garriſons;</hi> Raiſe up thy <hi>Bulwarks;</hi> for <hi>Strong</hi> is He that will Plead with Thee: Say not, Thou art <hi>Rich,</hi> thou <hi>hast Enough;</hi> thou <hi>Fearest</hi> not, it ſhall deliver thee out of all <hi>Distreſs:</hi> Nay ſurely, that which thou <hi>Truſtest</hi> ſhall firſt <hi>Fail</hi> thee; thy <hi>Riches</hi> ſhall be thy <hi>Destroyer.</hi> Thy <hi>Kingdom</hi> is <hi>Great,</hi> as is thy <hi>Power,</hi> yet certainly thou ſhalt be <hi>Deſtroyed:</hi> O <hi>Proud People! Great</hi> among the <hi>Nations,</hi> and <hi>Renowned</hi> among the <hi>Princes,</hi> your <hi>Kingdom</hi> ſhall be left to you <hi>Deſolate;</hi> for a <hi>Deſtroyer</hi> ſhall come from the <hi>South,</hi> and from the <hi>Eaſt,</hi> and deſtroy you with the <hi>Edge</hi> of the <hi>Sword.</hi> A <hi>Cruel Nation,</hi> which are not Acquainted with <hi>Pity,</hi> nor have any Knowledge of <hi>Mercy,</hi> they ſhall <hi>Raviſh</hi> thy <hi>Virgins, Deſtroy</hi> thy <hi>Old Men,</hi> and <hi>Kill</hi> thy <hi>Young Men</hi> and <hi>Infants</hi> with the <hi>Sword:</hi> thy <hi>Houſes</hi> and thy <hi>Pleaſant Habitations</hi> ſhall be <hi>Burnt</hi> with <hi>Fire;</hi> thy <hi>Vines</hi> ſhall be <hi>Deſtroyed,</hi> and thy <hi>Images Confounded,</hi> O thou <hi>Kingdom</hi> of <hi>Pictures!</hi> A certain <hi>De<g ref="char:EOLhyphen"/>ſtruction</hi> is <hi>Coming,</hi> thou ſhalt not <hi>Eſcape it,</hi> and <hi>Terribly</hi> it ſhall <hi>Perſue</hi> thee, till thou art <hi>Conſumed.</hi> After many Days the <hi>Garden</hi> of <hi>Lillies</hi> ſhall again <hi>Flouriſh.</hi> And I asked Him which Talked with me, <hi>When thoſe Things ſhould be?</hi> And He Anſwered me, ſaying, <hi>Curſed</hi> be that <hi>Kingdom,</hi> but <hi>Bleſſed</hi> in his <hi>Off-Spring,</hi> which brings it to <hi>Deſtruction.</hi> When thou ſeeſt the <hi>Peſtilence</hi> with <hi>Vengeance</hi> from the <hi>Most High,</hi> Afflicts its Principal <hi>City,</hi> Know, theſe Things <hi>Draw near;</hi> yet it ſhall not be in that <hi>Kings</hi> Days.</p>
+            <p>To the <hi>Empire</hi> of GREECE: This is the <hi>Viſion:</hi> It ſhall be Di<g ref="char:EOLhyphen"/>vided into many <hi>Parts;</hi> the <hi>Body</hi> ſhall <hi>Rebel</hi> againſt the <hi>Head:</hi> After a Little Seaſon the <hi>Storm</hi> ſhall be over; then behold (as it were) an <hi>Everlasting Reſt.</hi> In thoſe Days God ſhall Create thee a <hi>Prince,</hi> and make thee a <hi>King,</hi> which ſhall have the Knowledge of his Ways. But before theſe Things be accompliſhed, He that is now thy <hi>Lord</hi> ſhall Sorely <hi>Bruiſe</hi> thee; the next ſhall <hi>Break</hi> thee to <hi>Pieces;</hi> and a <hi>Third</hi> ſhall <hi>Devour</hi> thee: Not long after ſhall be thy <hi>Reſtauration.</hi>
+            </p>
+            <p>To <hi>France</hi> ſpeak theſe things: Take away the <hi>Crown,</hi> Caſt down the <hi>Diadem;</hi> Touch not the <hi>Scepter;</hi> for <hi>New Lords</hi> ſhall <hi>Rule</hi> over thee. But bleſs the Name of the <hi>Lord,</hi> the <hi>Cruelty</hi> of his <hi>Off-ſpring</hi> ſhall be <hi>ſweeter</hi> than thy <hi>tender Mercies.</hi>
+            </p>
+            <p>To <hi>Germany</hi> proclaim; That all its <hi>Stubble</hi> ſhall be <hi>burnt,</hi> its <hi>Droſs conſumed,</hi> its <hi>Leproſie cleanſed;</hi> and after many dayes it ſhall wholly be <hi>ſubject</hi> to one <hi>Prince;</hi> Nevertheleſs <hi>God</hi> ſhall do this; the Hand of the <hi>Lord</hi> only ſhall be upon thee, and not of <hi>Man,</hi> For to thee a <hi>Bleſ<g ref="char:EOLhyphen"/>ſing</hi> is reſerved in ſtore, O that thou couldeſt ſee it.</p>
+            <p>To <hi>Italy</hi> ſay, Thy <hi>Kingdom</hi> ſhall be taken from thee, and given to another; thy <hi>Tripple Crown</hi> ſhall <hi>fall,</hi> and never riſe again. And this ſhall be a <hi>Sign</hi> unto thee, which ſhall not fail thee, but be a <hi>Monument</hi>
+               <pb n="6" facs="tcp:98356:5"/>
+to ſucceeding <hi>Generations, Vengeance</hi> within the <hi>Capital</hi> ſhall deſtroy thy <hi>High Prieſt.</hi>
+            </p>
+            <p>To <hi>Spain</hi> ſignify, As thou art the <hi>Eldeſt Son</hi> of thy <hi>Mother,</hi> ſo muſt thou have a part of her <hi>Portion:</hi> Thy <hi>Kingdom</hi> ſhall not be wholly <hi>taken</hi> from thee, but it ſhall be <hi>Divided:</hi> Thy own <hi>rebellious Children</hi> ſhall help forward thy <hi>Miſery.</hi> As a <hi>Woman</hi> with <hi>Child</hi> ſo ſhalt thou <hi>travel</hi> with ſeveral <hi>Princes,</hi> when the time of <hi>Delivery</hi> ſhall come, then ſhall be thy greateſt <hi>Diſtreſs;</hi> Thou ſhalt be afflicted by a <hi>fooliſh Nation,</hi> and ſtand in fear of them that are no <hi>People:</hi> Yet fear not, through all the <hi>Lord</hi> ſhall leave a <hi>Root</hi> and a <hi>Branch.</hi>
+            </p>
+            <p>And to ENGLAND ſay, (and I <hi>Wept</hi> when I heard him ſpeak) thy <hi>Pride,</hi> and thy <hi>Loftineſs</hi> ſhall be brought down, the <hi>LORD Him<g ref="char:EOLhyphen"/>ſelf</hi> will do it. And <hi>He</hi> will bring to paſs a <hi>Work</hi> which now thou canſt not believe. <hi>He</hi> will <hi>Purge</hi> thee with <hi>Fire,</hi> and <hi>Refine</hi> thee with <hi>Coales,</hi> and take away thy <hi>Droſs;</hi> If thou beeſt all <hi>Tin</hi> he will <hi>Conſume</hi> thee wholly. And I ſaid, <hi>LORD, What ſhall become of thy CHOSEN?</hi> And <hi>HE</hi> ſaid, <hi>I will HIDE them in the Hollow of mine HAND till my Vengeance paſs over.</hi> Afterwards, I will <hi>Eſtabliſh a</hi> PRINCE <hi>that ſhall R<g ref="char:V">Ʋ</g>LE in RIGHTEO<g ref="char:V">Ʋ</g>SNES, and this</hi> THRONE <hi>to a</hi> THOUSAND GENERATIONS: I will make it as the <hi>GARDEN</hi> of GOD; and I will <hi>Delight</hi> to do it <hi>Good;</hi> For in <hi>Bleſſing</hi> I will <hi>bleſs it:</hi> Nevertheleſs what I have determined ſhall ſure<g ref="char:EOLhyphen"/>ly come to paſs. <hi>Afflictions</hi> ſhall follow it for a ſeaſon, and <hi>ſore Stripes</hi> But the <hi>Rod</hi> ſhall <hi>ſpring</hi> out of its <hi>Own Bowels.</hi> And he ſaid unto me, Take up a <hi>Lamentation</hi> for thy <hi>Country,</hi> and for thy <hi>People,</hi> and ſay, How is <hi>Braſs</hi> become <hi>weak?</hi> and <hi>Steel</hi> as <hi>Straw?</hi> How are the <hi>Mighty fallen?</hi> and the <hi>Beautiful aſhamed?</hi> How are the <hi>Golden Dayes</hi> of <hi>Vani<g ref="char:EOLhyphen"/>ty changed</hi> in a <hi>Moment?</hi> The <hi>Fat</hi> become <hi>Lean!</hi> The <hi>Wiſe, Fooliſh!</hi> How are the <hi>Songs</hi> of <hi>Joy</hi> turned to <hi>Howling?</hi> thy <hi>Noon-day</hi> into <hi>Mid<g ref="char:EOLhyphen"/>night?</hi> Was ever ſuch a thing heard of before, that the <hi>Sun</hi> ſhould <hi>ſet</hi> at <hi>Noon:</hi> and the <hi>darkneſs</hi> of <hi>Night</hi> ſhould poſſeſs the <hi>Noon-Day?</hi> Thus ſhall it befall thy <hi>People</hi> in the <hi>Day</hi> of <hi>Purging:</hi> and the <hi>Furnace</hi> ſhall yet be <hi>Hotter.</hi>
+            </p>
+            <p>He that ſpeakes theſe things is <hi>Faithful</hi> and <hi>True,</hi> and there ſhall no<g ref="char:EOLhyphen"/>thing of them fail. As for me he ſaid, <hi>Go thy way, for thou ſhalt Rest in Peace.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
